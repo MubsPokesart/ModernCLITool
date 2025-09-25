@@ -1,0 +1,4 @@
+# Core Dependencies
+typer            # CLI framework with type hints
+rich        # Beautiful terminal formatting
+typing-extensions         # Backport of typing features for older Python
